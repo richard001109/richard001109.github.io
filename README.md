@@ -1,2 +1,2 @@
-# richard001109.github.io
-this my first project
+# new
+this is new project
