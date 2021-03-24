@@ -1,0 +1,50 @@
+/*
+ * 
+ *    ┏┓　　　┏┓
+ *  ┏┛┻━━━┛┻┓
+ *  ┃　　　　　　　┃
+ *  ┃　　　━　　　┃
+ *  ┃　＞　　　＜　┃
+ *  ┃　　　　　　　┃
+ *  ┃...　⌒　...　┃
+ *  ┃　　　　　　　┃
+ *  ┗━┓　　　┏━┛
+ *      ┃　　　┃　
+ *      ┃　　　┃
+ *      ┃　　　┃
+ *      ┃　　　┃  神兽保佑
+ *      ┃　　　┃  代码无bug　　
+ *      ┃　　　┃
+ *      ┃　　　┗━━━┓
+ *      ┃　　　　　　　┣┓
+ *      ┃　　　　　　　┏┛
+ *      ┗┓┓┏━┳┓┏┛
+ *        ┃┫┫　┃┫┫
+ *        ┗┻┛　┗┻┛
+ * 
+ * @message: 
+ * @Version: 2.0
+ * @Autor: richard
+ * @since: 2021-03-07 23:03:42
+ * @LastAuthor: richard
+ * @lastTime: 2021-03-07 23:03:43
+ */
+
+/* 这是CSS的注释 */
+/* 建议每条申明占一行 */
+p {
+    color: blue;
+    text-align: center;
+    /* 文本居中 */
+}
+.center {
+    text-align: center;
+}
+
+.large {
+    font-size: 30px;
+}
+
+.red {
+    color: red;
+}
